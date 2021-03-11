@@ -1,29 +1,18 @@
-# This is a large heading
-## This is a smaller heading
+# HYUNJIN CHO
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poetâÎî^TMs pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and an **name**.
+### Geography
 
-- This is
-- an unordered
-- list
+I live in the city of Seattle, in the state of Washington, in the United States of America.
 
-1. This is
-2. an orderd
-3. list
+### Reading
 
-Here is `some code` in the middle of a sentence.
+Three of my favorite books are:
 
-```
-This is 
-a block
-of code
-```
+-*Adaptive Computation and Machine Learning* by Kevin P. Murphy
+-*UNDERSTANDING MACHINE LEARNING -From Theory to Algorithms* by Shai Shalev-Shwartz
+-*Convex Optimization: Algorithms and Complexity* by Sébastien Bubeck
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releasedownload/v0.0.2/karl-moustache.jpg)
-
+The best way to get in touch with me is...
 
