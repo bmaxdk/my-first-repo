@@ -1,4 +1,4 @@
-# HYUNJIN CHO
+# HOWARD CHO
 
 ### Geography
 
